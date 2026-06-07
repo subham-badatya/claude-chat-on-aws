@@ -2,7 +2,7 @@ from anthropic import AnthropicAWS
 
 client = AnthropicAWS(
     aws_region="ap-south-1",
-    workspace_id="wrkspc_01G5VyjQa8qAsR1YyyaB7vJY"
+    workspace_id="wrkspc_xxxx"
 )
 
 message = client.messages.create(
