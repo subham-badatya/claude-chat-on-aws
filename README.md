@@ -152,7 +152,7 @@ Open the URL in your browser.
 
 ---
 
-## Project Screenshots
+## Project Architecture
 ![Architecture](project-architecture.png)
 ### Workspace Setup
 ![Workspace Setup](screenshots/workspace.png)
