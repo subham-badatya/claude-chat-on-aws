@@ -153,18 +153,16 @@ Open the URL in your browser.
 ---
 
 ## Project Screenshots
-
+![Architecture](project-architecture.png)
 ### Workspace Setup
-
-Add screenshot here.
+![Workspace Setup](screenshots/workspace.png)
 
 ### API Connection Success
 
-Add screenshot showing successful terminal output.
-
+![API Success](screenshots/terminal-success.png)
 ### Streamlit Chat UI
+![Chat UI](screenshots/chat-ui.png)
 
-Add screenshot showing browser chat interface.
 
 ---
 
